@@ -13,19 +13,19 @@ A sleek, **cyber-noir inspired YouTube Music player** built with **React, Vite, 
 
 ---
 
-## 🚀 Features
-- 🎵 **YouTube Music Integration** – Stream and play music directly from YouTube
-- 🔍 **Advanced Search** – Instant search with debouncing + rich results
-- 📚 **Library Management** – Save & organize your favorite tracks
-- ⏯️ **Queue System** – Create and manage custom playlists
-- 🎨 **Cyber‑Noir UI** – Dark mode with purple aesthetics and smooth animations
-- 📱 **Responsive** – Works beautifully on mobile & desktop
-- 🎛️ **Advanced Controls** – Repeat, shuffle, volume, seeking
-- ⚡ **Performance Optimized** – Fast loading & smooth playback
+## Features
+- **YouTube Music Integration** – Stream and play music directly from YouTube
+- **Advanced Search** – Instant search with debouncing + rich results
+- **Library Management** – Save & organize your favorite tracks
+- **Queue System** – Create and manage custom playlists
+- **Cyber‑Noir UI** – Dark mode with purple aesthetics and smooth animations
+- **Responsive** – Works beautifully on mobile & desktop
+- **Advanced Controls** – Repeat, shuffle, volume, seeking
+- **Performance Optimized** – Fast loading & smooth playback
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 ### **Frontend**
 - React 18
 - Vite
@@ -44,7 +44,7 @@ A sleek, **cyber-noir inspired YouTube Music player** built with **React, Vite, 
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 ### **Prerequisites**
 - Node.js **v16+**
 - npm or yarn
@@ -64,7 +64,7 @@ Open: **http://localhost:5173**
 
 ---
 
-## 🎮 Usage
+## Usage
 - Search and play tracks
 - Save favorites into your library
 - Queue songs to build custom playlists
@@ -72,7 +72,7 @@ Open: **http://localhost:5173**
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 gratisfy/
 ├── src/
@@ -88,7 +88,7 @@ gratisfy/
 
 ---
 
-## 📡 API
+## API
 ```
 GET /api/ytm/search?q=<query>
 GET /api/ytm/stream?videoId=<id>
@@ -96,15 +96,15 @@ GET /api/ytm/stream?videoId=<id>
 
 ---
 
-## 🤝 Contributing
+## Contributing
 Fork → Branch → Commit → PR
 
 ---
 
-## 📜 License
+## License
 MIT License
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 YouTube Music • yt-dlp • yt-search • Vite • TailwindCSS • Framer Motion
